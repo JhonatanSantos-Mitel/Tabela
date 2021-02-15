@@ -1,0 +1,25 @@
+
+div /* Espaçamento entre tabelas */
+{  
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+caption /* Estilo do titulo da tabela */
+{   
+    font-size: 20px;
+    display: table-caption;
+    text-align: center;
+    text-transform: uppercase;
+    caption-side: top;
+    font-weight: 700;
+    background-color: rgba(16, 19, 28, 0.905);
+    color: rgb(238, 238, 238);
+}
+
+.title-hover:hover /* Efeitos adicionais */
+{    
+    color: rgb(112, 118, 204);
+}
